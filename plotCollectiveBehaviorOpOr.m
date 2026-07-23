@@ -155,8 +155,6 @@ function [all_Op, all_Or, sampledFrames, sampledIDs] = sampleOpOr(Xmat, Ymat, Vx
             continue;
         end
     
-        % --- NEW: random center + k-nearest neighbors in position space ---
-    
         % Positions of all valid Daphnia in this frame
         X_valid = Xmat(availableIDs, t);
         Y_valid = Ymat(availableIDs, t);
