@@ -1,5 +1,5 @@
 # DaphniaAnalysis_AlvaradoLab
-Code for analysis of Daphnia collective behavior. Efforts led by Alvarado Lab at Queens College.
+Code for analysis of Daphnia collective behavior. Efforts led by [Alvarado Lab](https://www.alvaradolab.com/) at Queens College.
 
 Data Visualization: https://docs.google.com/presentation/d/1Bh2P0BvXDtHaI6lCq7zyqyxMzMPgm3qTGtTEco3Orw8/edit?usp=sharing
 
